@@ -30,4 +30,6 @@
         
         
     ],
+        #Add license to remove License Warning
+    'license': 'OPL-1'
 }
