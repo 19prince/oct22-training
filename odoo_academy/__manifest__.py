@@ -1,4 +1,4 @@
-# _*_ coding: utf-8 __
+# -*- coding: utf-8 -*-
 
 {
     'name': 'Odoo Academy',
