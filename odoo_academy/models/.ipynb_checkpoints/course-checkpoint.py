@@ -18,3 +18,4 @@ class Course(models.Model):
 
     
     active = fields.Boolean(string='Active', default=True)
+    
